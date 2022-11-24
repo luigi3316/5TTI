@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\bin\Debug\netcoreapp3.1\Expanneausolaire.exe
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\bin\Debug\netcoreapp3.1\Expanneausolaire.deps.json
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\bin\Debug\netcoreapp3.1\Expanneausolaire.runtimeconfig.json
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\bin\Debug\netcoreapp3.1\Expanneausolaire.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\bin\Debug\netcoreapp3.1\Expanneausolaire.dll
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\bin\Debug\netcoreapp3.1\Expanneausolaire.pdb
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\obj\Debug\netcoreapp3.1\Expanneausolaire.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\obj\Debug\netcoreapp3.1\Expanneausolaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\obj\Debug\netcoreapp3.1\Expanneausolaire.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\obj\Debug\netcoreapp3.1\Expanneausolaire.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\obj\Debug\netcoreapp3.1\Expanneausolaire.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\obj\Debug\netcoreapp3.1\Expanneausolaire.dll
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\obj\Debug\netcoreapp3.1\Expanneausolaire.pdb
+C:\Users\PC\OneDrive\Bureau\peogrammation 5tti\Expanneausolaire\Expanneausolaire\obj\Debug\netcoreapp3.1\Expanneausolaire.genruntimeconfig.cache

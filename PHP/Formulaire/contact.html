@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="contact.css">
+    <meta charset="utf-8">
+    <title>coucou toi</title>
+  </head>
+  <body>
+
+    <h1>Newsletter</h1>
+
+      <div class="cadre">
+        <div>
+            <label for="nom">  Nom</label>
+            <input type="text" id="nom" name="nom">
+        </div>
+
+        <div>
+            <label for="prenom">  Prénom</label>
+            <input type="text" id="prenom" name="prenom">
+        </div>
+
+        <div>
+            <label for="e-mail">  e-Mail</label>
+            <input type="text" id="e-mail" name="e-mail">
+            <title>ex " MARTIN "</title>
+        </div>
+
+        <div>
+            <label for="pays">  Pays</label>
+
+            <select name="pays" id="pays-select">
+                <option value="">--choisi un pays--</option>
+
+              <optgroup label="Europe">
+                <option value="Belgique">Belgique</option>
+                <option value="Grande-Bretagne">Grande-Bretagne</option>
+              </optgroup>  
+
+              <optgroup label="Amérique">
+                <option value="état-Uni">état-Uni</option>
+                <option value="Canada">Canada</option>
+              </optgroup>  
+
+              <optgroup label="Asie">
+                <option value="Japon">Japon</option>
+                <option value="Chine">Chine</option>
+              </optgroup>
+
+            </select> 
+        </div>
+
+        <div>
+            <label for="datedenaissance">  Date De Naissance</label>
+            <input type="text" id="datedenaissance" name="datedenaissance">
+        </div>
+
+      </div>  
+
+    <h1>Périodicité</h1>
+
+      <div class="cadre2">
+        <div>
+          <input type="radio" name="pub" value="hebdo">
+          <label for="pub">newsletter hebdomadaire</label>
+        </div>
+
+        <div>
+          <input type="radio" name="pub" value="mensuel">
+          <label for="pub1">newsletter mensuel</label>
+        </div>
+
+        <div>
+          <input type="radio" name="pub" value="tri">
+          <label for="pub2">newsletter trimestrielle</label>
+        </div>
+      </div>  
+
+  </body>
+</html>

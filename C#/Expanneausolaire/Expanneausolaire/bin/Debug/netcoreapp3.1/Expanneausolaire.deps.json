@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Expanneausolaire/1.0.0": {
+        "runtime": {
+          "Expanneausolaire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expanneausolaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+body{
+
+    background-color: gold;
+
+}
+
+.cadre{
+
+    border: black solid;
+    background-color: whitesmoke;
+    margin-top: 5vh;
+    margin-left: 15vh;
+    margin-right: 15vh;
+
+}
+
+.titre{
+
+    text-align: center;
+
+}
+
+.titre2{
+
+    text-align: center;
+
+}
+
+.ZoneTexte{
+
+    text-align: center;
+    margin-bottom: 2vh;
+
+}
+
+.boutton{
+
+    text-align: center;
+    margin-bottom: 5vh;
+
+}

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Second Formulaire</title>
+    <link href="css/stylesheet.css" rel="stylesheet">
+
+</head>
+
+<body>
+    
+    <div class="cadreBleu">
+
+        <h1>Super Quizz</h1>
+        <div class="cadreBlanc">
+
+            <fieldset class="cadre">
+                <legend><b>Donné Personel</b></legend>
+
+                <form action="/ma-page-de-traitement" method="post">
+                    <div>
+
+                        <label for="name">Nom :</label>
+                        <input type="text" id="name" name="user_name">
+
+                    </div>
+                    
+                    <div>
+
+                        <label for="prenom">prenom :</label>
+                        <input type="text" id="prenom" name="prenom">
+
+                    </div>
+
+                    <div>
+
+                        <label for="age">age :</label>
+                        <input type="number" id="age" name="age">
+
+                    </div>
+
+                    <div>
+                        
+                        <label for="DateAnniversaire">DateAnniversaire :</label>
+                        <input type="date" id="DateAnniversaire" name="DateAnniversaire">
+
+                    </div>
+
+                    <p>votre groupe :</p>
+                    <div>
+
+                        <label><input type="radio" name="1">1</label>
+                        <label><input type="radio" name="2">2</label>
+
+                    </div>
+
+                </form>
+
+            </fieldset>
+
+            <fieldset class="cadre1">
+
+                <legend><b>Question 1</b></legend>
+
+                <p><u>Parmi les mots suivants, indiquer lesquels sont des balises :</u></p>
+
+                <div>
+                    <input type="checkbox" id="head" name="head">
+                    <label for="head">head</label>
+                </div>
+
+                <div>
+                    <input type="checkbox" id="style" name="style">
+                    <label for="style">style</label>
+                </div>
+
+                <div>
+                    <input type="checkbox" id="margin" name="margin">
+                    <label for="margin">margin</label>
+                </div>
+
+                <div>
+                    <input type="checkbox" id="href" name="href">
+                    <label for="href">href</label>
+                </div>
+
+                <div>
+                    <input type="checkbox" id="section" name="section">
+                    <label for="section">section</label>
+                </div>
+
+            </fieldset>
+
+            <fieldset class="cadre2">
+                <legend><b>Question 2</b></legend>
+
+                <p><u>Choissisez la syntaxe correcte pour créer un hyperlien</u></p>
+
+                <select name="syntaxe" id="syntaxe">
+
+                    <option value="dog"><pre><a>name="asty.html">Centre Asty-Moulin</a></pre></option>
+                    <option value="dog"><pre><a>name="asty.html">Centre Asty-Moulin</a></a></pre></option>
+                    <option value="dog"><pre><a>name="asty.html">Centre Asty-Moulin</a></option>
+            
+                </select>
+                
+            </fieldset>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
